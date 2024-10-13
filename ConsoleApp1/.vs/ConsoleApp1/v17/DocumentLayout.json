@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\consoleapp1\\task10.2\\microfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|solutionrelative:task10.2\\microfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\consoleapp1\\task10.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|solutionrelative:task10.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\consoleapp1\\task10.2\\ifinanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|solutionrelative:task10.2\\ifinanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDEB7F5-6F3C-4880-9134-43682AF07BFF}|ConsoleApp1\\task10.1.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\consoleapp1\\consoleapp1\\fileworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDEB7F5-6F3C-4880-9134-43682AF07BFF}|ConsoleApp1\\task10.1.csproj|solutionrelative:consoleapp1\\fileworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDEB7F5-6F3C-4880-9134-43682AF07BFF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDEB7F5-6F3C-4880-9134-43682AF07BFF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\consoleapp1\\task10.2\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18753473-C14B-44A5-BE1F-0D344121384A}|task10.2\\task10.2.csproj|solutionrelative:task10.2\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MicroFinance.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\MicroFinance.cs",
+              "RelativeDocumentMoniker": "task10.2\\MicroFinance.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\MicroFinance.cs",
+              "RelativeToolTip": "task10.2\\MicroFinance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:56:36.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\Bank.cs",
+              "RelativeDocumentMoniker": "task10.2\\Bank.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\Bank.cs",
+              "RelativeToolTip": "task10.2\\Bank.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:34:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFinanceOperations.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\IFinanceOperations.cs",
+              "RelativeDocumentMoniker": "task10.2\\IFinanceOperations.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\IFinanceOperations.cs",
+              "RelativeToolTip": "task10.2\\IFinanceOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:29:30.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\Program.cs",
+              "RelativeDocumentMoniker": "task10.2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\task10.2\\Program.cs",
+              "RelativeToolTip": "task10.2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:28:07.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileWorker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\ConsoleApp1\\FileWorker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FileWorker.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\ConsoleApp1\\FileWorker.cs",
+              "RelativeToolTip": "ConsoleApp1\\FileWorker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:21:19.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework10\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:19:39.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
